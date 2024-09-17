@@ -6,7 +6,10 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Data science can be applied to political science. It can help political scientists study voting trends and make accurate election predictions.
 
-
 Q3: What is the difference between merging and rebasing?
 
 Answer: They handle conflict differently, merging preserves the history of the conflict while rebasing will rewrite history and combine the branches.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve upon my design skills. I'd like to learn how to properly design a study and know the appropriete procedure to complete a study.
